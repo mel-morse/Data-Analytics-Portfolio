@@ -8,6 +8,7 @@
 SQL Project 
 [Part 1 
 ](https://docs.google.com/document/d/1aSMoZlNuN1dKdS73IGZNQZ9-BCoq83Fuf4w9fTQZzmA/edit?usp=sharing)
+
 [Part 2 
 ](https://docs.google.com/document/d/1ONQaHeff-8ArrVrtgy7x5HITFvImky-drP0-rtFP3hs/edit?usp=sharing)
 
