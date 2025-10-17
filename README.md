@@ -6,6 +6,7 @@
 
 ### Data Analytics Projects 
 SQL Project 
+
 [Part 1 
 ](https://docs.google.com/document/d/1aSMoZlNuN1dKdS73IGZNQZ9-BCoq83Fuf4w9fTQZzmA/edit?usp=sharing)
 
