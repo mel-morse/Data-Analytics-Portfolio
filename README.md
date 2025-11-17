@@ -13,7 +13,8 @@ SQL Project
 [Part 2 
 ](https://docs.google.com/document/d/1ONQaHeff-8ArrVrtgy7x5HITFvImky-drP0-rtFP3hs/edit?usp=sharing)
 
-Capstone Project "Coming Soon"
+[Capstone Project
+](https://github.com/mel-morse/Bikeshare_capstone_casestudy)
 
 Excel Project "Coming Soon"
 
