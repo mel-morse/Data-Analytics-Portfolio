@@ -13,9 +13,9 @@ SQL Project
 [Part 2 
 ](https://docs.google.com/document/d/1ONQaHeff-8ArrVrtgy7x5HITFvImky-drP0-rtFP3hs/edit?usp=sharing)
 
-[Capstone Project
+[Capstone Project Bikeshare case study
 ](https://github.com/mel-morse/Bikeshare_capstone_casestudy)
-Bikeshare case study
+
 
 Excel Project "Coming Soon"
 
